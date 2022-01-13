@@ -1,3 +1,6 @@
 added some test
 doing second change
+
+adding 3rd change
+
 3rd change in branch1
